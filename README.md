@@ -6,7 +6,7 @@ Features:
 Data Analysis: Techniques such as Gaussian, relative phase, and dynamic time warping (DTW) are employed for analyzing the relationship between motion and music.
 Evaluation System: A comprehensive system is provided for evaluating synchronization performance between music and movement. It takes a motion video clip as input, extracts motion beats by analyzing participant movement’s speed and direction changes, and subsequently evaluates synchronization performance by comparing motion beats with music beats.
 
-#Usage:
+Usage:
 Researchers and practitioners in the field of music and motion synchronization can benefit from this repository. The provided code and resources offer valuable insights and tools for analyzing and evaluating the intricate relationship between motion and music.
 
 Contents:
