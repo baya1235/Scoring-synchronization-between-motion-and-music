@@ -9,14 +9,14 @@ Evaluation System: A comprehensive system is provided for evaluating synchroniza
 #Usage:
 Researchers and practitioners in the field of music and motion synchronization can benefit from this repository. The provided code and resources offer valuable insights and tools for analyzing and evaluating the intricate relationship between motion and music.
 
-#Contents:
+Contents:
 Codebase: Contains implementations of various scoring techniques and the evaluation system in Python.
 Datasets: Synthetic and real-world datasets used for testing and evaluation purposes.
 Documentation: Detailed documentation and usage guides to help users effectively utilize the provided resources.
 Contribution:
 Contributions from the research community are welcome. Feel free to submit pull requests for bug fixes, enhancements, or additional scoring techniques.
 
-#Citation:
+Citation:
 If you find this repository useful for your research, please consider citing it:
 
 Insertcitationhere
