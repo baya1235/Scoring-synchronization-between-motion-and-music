@@ -2,10 +2,10 @@
 Overview:
 This repository contains code and resources for scoring the relationship between motion and music. 
     The methods presented here were tested on synthetic data 
-    To run the code and test the different metric  : 
+    To run the code and test the different metrics : 
 
     
-1. `python main_test.py 
+1. python main_test.py 
 
 
 Citation:
