@@ -8,7 +8,6 @@ To run the code and test the different metrics :
 1. python main_test.py 
 
 
-Citation:
-If you find this repository useful for your research, please consider citing it:
+
 
 
