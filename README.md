@@ -13,14 +13,13 @@ Synthetic data allows for controlled experiments and evaluation of algorithm per
 # Usage 
 Clone the repository: 
 
-git clone https://github.com/your_username/Scoring-synchronization-between-motion-and-music.git
+`git clone https://github.com/your_username/Scoring-synchronization-between-motion-and-music.git` 
 
 Navigate to the cloned directory:
 
 cd Scoring-synchronization-between-motion-and-music
 
 The methods presented here were tested on synthetic data 
-2. Directly run `python example.py`. Alternatively, `demo.ipynb` gives an example using jupyter notebook.
 
 
 Evaluation on Real Data
