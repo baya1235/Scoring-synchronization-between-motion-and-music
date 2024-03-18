@@ -19,8 +19,9 @@ Navigate to the cloned directory:
 
 `cd Scoring-synchronization-between-motion-and-music` 
 
-The methods presented here were tested on synthetic data 
+Run the synthetic data test script:
 
+`python evaluation_synth_synchronization.py` 
 
 Evaluation on Real Data
 The real_data_evaluation.py script in the repository allows for the evaluation of synchronization methods on real-world audio and video data. Real data evaluation provides insights into algorithm performance in practical scenarios.
