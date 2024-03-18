@@ -5,8 +5,10 @@ This repository contains the implementation of the methods described in the pape
 # Introduction 
 In the field of music and motion synchronization, understanding the alignment between musical events and corresponding motion cues is crucial. This repository provides a set of methods and algorithms aimed at scoring the synchronization between music and motion, exploring both local and global approaches.
 
-Testing on Synthetic Data
-The synthetic_data_test.py script in the repository facilitates testing synchronization methods on synthetic data. Synthetic data allows for controlled experiments and evaluation of algorithm performance under different conditions.
+# Testing on Synthetic Data
+The synthetic_data_test.py script in the repository facilitates testing synchronization methods on synthetic data. 
+
+Synthetic data allows for controlled experiments and evaluation of algorithm performance under different conditions.
 
 # Usage 
 Clone the repository: 
@@ -18,6 +20,7 @@ Navigate to the cloned directory:
 cd Scoring-synchronization-between-motion-and-music
 
 The methods presented here were tested on synthetic data 
+2. Directly run `python example.py`. Alternatively, `demo.ipynb` gives an example using jupyter notebook.
 
 
 Evaluation on Real Data
