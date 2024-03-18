@@ -17,7 +17,7 @@ Clone the repository:
 
 Navigate to the cloned directory:
 
-cd Scoring-synchronization-between-motion-and-music
+`cd Scoring-synchronization-between-motion-and-music` 
 
 The methods presented here were tested on synthetic data 
 
