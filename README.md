@@ -13,7 +13,7 @@ In the field of music and motion synchronization, understanding the alignment be
 
 Synthetic data generation allows for controlled experiments and evaluation of algorithm performance under various conditions. 
 
-This script specifically generates synthetic data and calculates scores based on it,
+This script specifically generates synthetic data and calculates scores based on it.
 
 
 # Results on Real Data
