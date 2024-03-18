@@ -18,6 +18,7 @@ This script specifically generates synthetic data and calculates scores based on
 
 # Results on Real Data
 1.Run the real data evaluation script:
+
 `python evaluation_video_synchronization.py`
 
 The script facilitates experiments with real-world data, evaluating algorithm performance using audio and video recordings of participants exhibiting varying levels and qualities of synchronization. First preprocessing for audio and video data before conducting synchronization score evaluations.
